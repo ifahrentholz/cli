@@ -15,7 +15,7 @@
 	],
 	"dependencies": {
 		"import-jsx": "3.0.0",
-		"ink": "2.5.0",
+		"ink": "2.7.0",
 		"meow": "5.0.0",
 		"prop-types": "15.7.2",
 		"react": "16.12.0"
