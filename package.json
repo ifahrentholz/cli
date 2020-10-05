@@ -28,7 +28,7 @@
 		"eslint-config-xo-react": "0.20.0",
 		"eslint-plugin-react": "7.16.0",
 		"eslint-plugin-react-hooks": "2.5.1",
-		"ink-testing-library": "1.0.2",
+		"ink-testing-library": "2.1.0",
 		"xo": "0.30.0"
 	},
 	"ava": {
