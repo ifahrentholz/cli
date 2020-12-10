@@ -21,7 +21,7 @@
 		"react": "16.13.1"
 	},
 	"devDependencies": {
-		"@babel/preset-react": "7.7.4",
+		"@babel/preset-react": "7.12.10",
 		"@babel/register": "7.9.0",
 		"ava": "3.8.0",
 		"chalk": "4.0.0",
