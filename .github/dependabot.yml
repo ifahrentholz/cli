@@ -1,0 +1,43 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "04:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: y18n
+    versions:
+    - 4.0.1
+    - 4.0.2
+  - dependency-name: "@babel/register"
+    versions:
+    - 7.12.10
+    - 7.12.13
+    - 7.13.0
+    - 7.13.14
+    - 7.13.8
+  - dependency-name: eslint-plugin-react
+    versions:
+    - 7.22.0
+    - 7.23.0
+    - 7.23.1
+  - dependency-name: xo
+    versions:
+    - 0.37.1
+    - 0.38.1
+    - 0.38.2
+  - dependency-name: "@babel/preset-react"
+    versions:
+    - 7.12.10
+    - 7.12.13
+  - dependency-name: lodash
+    versions:
+    - 4.17.20
+  - dependency-name: elliptic
+    versions:
+    - 6.5.3
+  - dependency-name: chalk
+    versions:
+    - 4.1.0
