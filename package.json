@@ -22,7 +22,7 @@
 	},
 	"devDependencies": {
 		"@babel/preset-react": "7.7.4",
-		"@babel/register": "7.9.0",
+		"@babel/register": "7.14.5",
 		"ava": "3.8.0",
 		"chalk": "4.0.0",
 		"eslint-config-xo-react": "0.20.0",
